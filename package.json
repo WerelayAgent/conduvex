@@ -2,7 +2,7 @@
   "name": "conduvex",
   "version": "1.0.0",
   "private": true,
-  "description": "Conduvex ($CDVX) — Liquidity Protocol on Solana. Shared liquidity vaults, signed quotes, and zero platform swap fees.",
+  "description": "Conduvex ($CDVX) — Liquidity Protocol on Robinhood Chain. Shared liquidity vaults, signed quotes, and zero platform swap fees.",
   "scripts": {
     "build": "node build.js",
     "start": "npx serve ."
